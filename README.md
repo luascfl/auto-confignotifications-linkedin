@@ -49,7 +49,7 @@ Este projeto não requer nenhuma instalação no sentido tradicional. Em vez dis
 2. **Clique no Bookmarklet:** Clique no bookmarklet que você criou. Pode aparecer uma mensagem pedindo para clicar novamente após o carregamento da página. Clique no bookmarklet novamente após uma breve espera. Caixas de seleção aparecerão ao lado de cada notificação.
 * Se você não estiver em (`https://www.linkedin.com/mypreferences/d/categories/notifications`), o script irá redirecioná-lo para a página.
 
-3. **Clique em "Atualizar configurações de notificação do LinkedIn":** Clique no botão apropriado para excluir as notificações selecionadas.
+3. **Clique em "Atualizar configurações de notificação do LinkedIn":** Clique no botão apropriado para configurar todas as notificações do LinkedIn automaticamente.
 
 ## Exemplos de Uso
 O script foi projetado para ser executado automaticamente. Uma vez injetado no console do navegador conforme descrito acima, ele configurará suas preferências de notificação de acordo com a lógica codificada no script. A saída do console mostrará o progresso e os resultados de cada operação.
