@@ -34,16 +34,13 @@ Modificar essas chamadas alterará o comportamento do script.
 
 Este projeto não requer nenhuma instalação no sentido tradicional. Em vez disso, você instala o bookmarklet diretamente no seu navegador:
 
-1. **Escolha seu idioma:** Selecione o código do bookmarklet que corresponde ao seu idioma preferido:
-    * **Inglês:** Use o código do arquivo `en_Bookmarklet (Select code and drag to bookmarks) Delete LinkedIn Notifications.js`.
-    * **Português:** Use o código do arquivo `pt_Bookmarklet (Selecione o código e arraste para a barra de favoritos) Deletar notificações LinkedIn.js`.
+1. **Selecione o Código do Bookmarklet:** Selecione todo o código JavaScript do arquivo escolhido. Para selecionar tudo, use CTRL+A.
+* Use o código do arquivo `Bookmarklet (Selecione o código e arraste para a barra de favoritos) Deletar notificações LinkedIn.js`.
 
-2. **Selecione o Código do Bookmarklet:** Selecione todo o código JavaScript do arquivo escolhido. Para selecionar tudo, use CTRL+A.
-
-3. Arraste o código para sua barra de favoritos para criar um novo bookmarklet.
+2. Arraste o código para sua barra de favoritos para criar um novo bookmarklet.
 * Se você estiver na pasta de favoritos desejada com o código copiado, cole-o.
 
-4. **Dê um Nome:** Dê ao seu favorito um nome descritivo (por exemplo, "Atualizar configurações de notificação do LinkedIn").
+3. **Dê um Nome:** Dê ao seu favorito um nome descritivo (por exemplo, "Atualizar configurações de notificação do LinkedIn").
 
 ## Uso
 
